@@ -1,0 +1,5 @@
+Trigger count = 	Output count = 
+                             	                             
+Min sample rate (Hz)=2.50E+8	Min record length=11364	Trigger level (V)=0.3000	Channel 0 threshold (V)=0.0250	Channel 1 threshold (V)=0.0200	Range (microseconds)=40.0000	Pulse 2 delay (microseconds)=1.0000	Lower cut-off frequency (Hz)=1.00E+6
+                             	                             
+Ch0_time1 (s)	Ch0_amp1 (V)	Ch0_width1 (s)	Ch0_time2 (s)	Ch0_amp2 (V)	Ch0_width2 (s)	Ch1_time1 (s)	Ch1_amp1 (V)	Ch1_width1 (s)	Ch1_time2 (s)	Ch1_amp2 (V)	Ch1_width2 (s)

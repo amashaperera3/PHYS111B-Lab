@@ -1,0 +1,5 @@
+Trigger Count=679	Output Count=1	Elapsed Time=04:31.693	Number of Pulses CH0=2	Number of Pulses CH1=0
+le rate (Hz)=2.50E+8	Min record length=11364	Trigger level (V)=0.6000	Channel 0 threshold (V)=0.2000	Channel 1 threshold (V)=0.2000	Range (microseconds)=40.0000	Pulse 2 delay (microseconds)=1.0000	Lower cut-off frequency (Hz)=1.00E+6
+                             	                             
+Ch0_time1 (s)	Ch0_amp1 (V)	Ch0_width1 (s)	Ch0_time2 (s)	Ch0_amp2 (V)	Ch0_width2 (s)	Ch1_time1 (s)	Ch1_amp1 (V)	Ch1_width1 (s)	Ch1_time2 (s)	Ch1_amp2 (V)	Ch1_width2 (s)
+5.432000E-6	0.432516	6.745939E-8	3.581200E-5	0.188745	6.135833E-8	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000
