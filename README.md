@@ -4,7 +4,7 @@ This repository contains selected data analysis work from my physics laboratory 
 
 > **Note:** This repository is a work in progress as I continue to work on data analysis and notebook cleaning. 
 
-##Included Labs
+##Included Labs##
 - **Muon Lifetime (MUO)**
 - **Opticul Pumping (OPT)**
 - **Hall Effect in Semiconductor (SHE)**
