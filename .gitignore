@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Jupyter checkpoints (optional)
+.ipynb_checkpoints/
+
+# Temporary or local-only files
+*.log
+*.tmp
+*.bak
+
+#Template to ignore files in specific folders
+#lab2_partner_archive/old_version.ipynb
+#OPTLab2/rawdata.csv
